@@ -1,0 +1,3 @@
+737		mumbai.txt
+669		copenhagen.txt
+650		osaka.txt
