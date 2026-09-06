@@ -1,0 +1,3 @@
+Prompt Guide has names for Debug approach
+For Runtime or Compile Time Errors, then go with "copy the traceback" approach
+For Logic Errors, then either a) Explain The Problem or b) Tell the LLM to start from scratch
