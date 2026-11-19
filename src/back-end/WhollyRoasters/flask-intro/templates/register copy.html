@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block container %}
+    <h3>{{message}}</h3>
+    <ul>
+        {% for error in errors %}
+            <li>{{error}}</li>
+        {% endfor %}
+    </ul>
+    <form action="/register" method="POST">
+        <input type="text" name="uname" placeholder="username..." /> <br>
+        <input type="password" name="pword" placeholder="password..." /><br>
+        <input type="password" name="confirm" placeholder="confirm password..." /><br>
+        <button>Submit</button>
+    </form>
+{% endblock %}
