@@ -1,0 +1,129 @@
+food_code,food_name,category,calorie_count,unit_price
+APPL,Apple,Fruit,52,1.02
+APRI,Apricot,Fruit,48,0.78
+AVOC,Avocado,Fruit,160,2.11
+BANA,Banana,Fruit,89,0.31
+BLAC,Blackberries,Fruit,43,5.27
+BLUE,Blueberries,Fruit,57,4.99
+CRAN,Cranberries,Fruit,46,3.99
+COCO,Coconut,Fruit,354,2.34
+CHER,Cherimoya,Fruit,75,1.76
+DATE,"Dates, medjool",Fruit,277,0.25
+FIG,Fig,Fruit,74,2.19
+GRPF,Grapefruit,Fruit,42,0.99
+GRAP,Grapes,Fruit,69,2.99
+KIWI,Kiwi fruit,Fruit,58,1.27
+LEMO,Lemon,Fruit,29,0.69
+MANG,Mango,Fruit,60,1.29
+MELO,"Melon, honeydew",Fruit,36,2.24
+NECT,Nectarine,Fruit,39,0.79
+ORAN,Orange,Fruit,47,0.99
+PAPA,Papaya,Fruit,43,2.13
+PEAC,Peach,Fruit,42,0.66
+PEAR,Pear,Fruit,57,1.12
+PINE,Pineapple,Fruit,50,2.09
+PLUM,Plum,Fruit,46,0.49
+RASP,Raspberries,Fruit,52,6.99
+RHUB,Rhubarb,Fruit,21,1.99
+STRA,Strawberries,Fruit,32,5.49
+TOMA,Tomato,Fruit,18,0.86
+WATE,Watermelon,Fruit,30,5.69
+ALFA,"Alfalfa, sprouted","Veggie, Grain, Legumes",23,0.22
+ARTI,Artichoke,"Veggie, Grain, Legumes",53,1.99
+ASPA,Asparagus,"Veggie, Grain, Legumes",20,3.99
+BROC,Broccoli,"Veggie, Grain, Legumes",34,1.99
+BRUS,Brussels sprouts,"Veggie, Grain, Legumes",43,0.12
+BSQU,Butternut squash,"Veggie, Grain, Legumes",45,3.99
+CABB,"Cabbage, red","Veggie, Grain, Legumes",31,1.99
+CAUL,Cauliflower,"Veggie, Grain, Legumes",25,3.09
+CELE,Celery,"Veggie, Grain, Legumes",14,0.49
+CHAR,Chard,"Veggie, Grain, Legumes",19,1.08
+CORN,Corn,"Veggie, Grain, Legumes",86,1.99
+CUCU,Cucumbers,"Veggie, Grain, Legumes",15,0.69
+EGGP,Eggplant,"Veggie, Grain, Legumes",25,0.86
+GARL,Garlic,"Veggie, Grain, Legumes",149,0.5
+GRBN,Green beans,"Veggie, Grain, Legumes",31,1.99
+GRPE,Green pepper,"Veggie, Grain, Legumes",20,1.29
+KALE,Kale,"Veggie, Grain, Legumes",35,3.99
+KIDN,"Kidney beans, canned","Veggie, Grain, Legumes",135,1.99
+LENT,"Lentils, canned","Veggie, Grain, Legumes",165,1.99
+LETT,Lettuce,"Veggie, Grain, Legumes",14,4.19
+LIMA,"Lima beans, canned","Veggie, Grain, Legumes",122,1.99
+MUSH,Mushrooms,"Veggie, Grain, Legumes",22,3.09
+NAVY,"Navy beans, canned","Veggie, Grain, Legumes",113,1.99
+OKRA,"Okra, fried","Veggie, Grain, Legumes",217,5.27
+OLIV,"Olives, black","Veggie, Grain, Legumes",116,2.99
+ONIO,Onions,"Veggie, Grain, Legumes",40,0.79
+PEAS,"Peas, green","Veggie, Grain, Legumes",81,2.34
+PICK,Pickles,"Veggie, Grain, Legumes",12,1.76
+RICE,"Rice, white, cooked","Veggie, Grain, Legumes",96,1.25
+SPIN,"Spinach, cooked","Veggie, Grain, Legumes",27,2.19
+TATE,Tater tots,"Veggie, Grain, Legumes",236,0.99
+TURN,Turnip greens,"Veggie, Grain, Legumes",132,2.99
+ZUCC,Zucchini,"Veggie, Grain, Legumes",21,1.27
+VEAL,"Veal, roasted","Meat, Poultry, Dairy",229,8.99
+VENI,"Venison, roasted","Meat, Poultry, Dairy",190,22.19
+RABB,"Rabbit, cooked","Meat, Poultry, Dairy",172,25.99
+LAMB,"Lamb, cooked","Meat, Poultry, Dairy",265,19.99
+GROU,"Ground beef, cooked","Meat, Poultry, Dairy",260,8.99
+BEEF,"Beef steak, fried","Meat, Poultry, Dairy",235,12
+PORK,"Pork belly, cooked","Meat, Poultry, Dairy",518,11.99
+ROAS,Roast chicken,"Meat, Poultry, Dairy",223,5.99
+CHIC,"Chicken breast, cooked","Meat, Poultry, Dairy",175,3.99
+DUCK,"Duck, cooked","Meat, Poultry, Dairy",336,9.99
+GOOS,"Goose, roasted","Meat, Poultry, Dairy",304,12.99
+TURK,"Turkey, light meat, roasted","Meat, Poultry, Dairy",169,3.99
+BUTT,Butter,"Meat, Poultry, Dairy",717,2.99
+CHED,Cheddar cheese,"Meat, Poultry, Dairy",408,8.47
+MLKS,"Milk, semi-skimmed","Meat, Poultry, Dairy",50,2.99
+MLKW,"Milk, whole","Meat, Poultry, Dairy",60,2.99
+YOGU,"Yogurt, plain, low-fat","Meat, Poultry, Dairy",63,1.2
+SOY,"Soy, container","Condiments, Seasoning",15,7.99
+SEAS,seasoning mix,"Condiments, Seasoning",15,5.99
+BNSPRT,bean sprouts,"Veggie, Grain, Legumes",23,3.99
+VEGOIL,vegetable oil,"Condiments, Seasoning",50,1.99
+SCALL,scallions,"Veggie, Grain, Legumes",25,0.99
+BASI,basil,"Veggie, Grain, Legumes",25,2.99
+MINT,mint,"Veggie, Grain, Legumes",25,3.99
+SESAM,sesame seeds,"Condiments, Seasoning",15,3.19
+SUGAR,sugar,"Condiments, Seasoning",60,3.49
+VINEG,white vinegar,"Condiments, Seasoning",10,3.99
+SALT,salt,"Condiments, Seasoning",15,1.99
+PB,peanut butter,"Condiments, Seasoning",75,6.99
+CAYPEP,cayenne pepper,"Condiments, Seasoning",15,1.99
+WHWRAP,wheat wraps,"Veggie, Grain, Legumes",150,4.99
+EVMILK,evaporate milk,"Meat, Poultry, Dairy",40,1.99
+ACHIOT,achiote paste,"Condiments, Seasoning",50,2.99
+BVINEG,balsalmic vinegar,"Condiments, Seasoning",10,4.99
+BPEPP,black pepper,"Condiments, Seasoning",10,1.99
+BREAD,bread,"Veggie, Grain, Legumes",150,4.49
+CAPR,capers,"Condiments, Seasoning",15,3.99
+CILAN,cilantro,"Veggie, Grain, Legumes",35,1.99
+CSTRCH,corn starch,"Condiments, Seasoning",25,0.99
+CCHEE,cream cheese,"Meat, Poultry, Dairy",175,4.99
+EGG,eggs,"Meat, Poultry, Dairy",95,3.99
+FLR,flour,"Veggie, Grain, Legumes",215,2.99
+GARPWD,garlic powder,"Condiments, Seasoning",15,1.99
+GTCHS,goat cheese,"Meat, Poultry, Dairy",155,5.99
+GYOGU,greek yogurt,"Meat, Poultry, Dairy",125,1.99
+HONEY,honey,"Condiments, Seasoning",90,5.99
+LMJUC,lime juice,Fruit,15,1
+MACA,macaroni,"Veggie, Grain, Legumes",215,2.09
+MAYO,mayo,"Condiments, Seasoning",175,2.99
+MSTRD,mustard,"Condiments, Seasoning",47,2.99
+OOIL,olive oil,"Condiments, Seasoning",95,8.99
+ONPWD,onion powder,"Condiments, Seasoning",24,1.99
+OJ,orange juice,Beverage,96,4.99
+OREG,oregano,"Condiments, Seasoning",26,1.99
+PAPR,paprika,"Condiments, Seasoning",10,1.99
+PARMCH,parmesan cheese,"Meat, Poultry, Dairy",95,6.99
+PARSL,parsley,"Veggie, Grain, Legumes",52,1.99
+RADSH,radish,"Veggie, Grain, Legumes",65,0.79
+SAUSG,sausage,"Meat, Poultry, Dairy",225,6.99
+SHALT,shallots,"Veggie, Grain, Legumes",78,1.25
+VSTOCK,vegetable stock,"Veggie, Grain, Legumes",48,1.99
+TGON,tarragon,"Condiments, Seasoning",15,1.99
+THYM,thyme,"Veggie, Grain, Legumes",15,1.99
+TOMPST,tomato paste,"Veggie, Grain, Legumes",67,0.99
+WNUT,walnuts,"Veggie, Grain, Legumes",50,6.99
+WTR,water,Beverage,0,1
