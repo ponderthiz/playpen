@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    width: 250px;
+    height: 275px;
+    margin: auto;
+    font-family: Bradley Hand, cursive;
+    border: solid black 2px;
+}
+
+ul{
+    text-align: left;
+}
+
+span{
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.strike {
+    text-decoration: line-through;
+    color: gray;
+}

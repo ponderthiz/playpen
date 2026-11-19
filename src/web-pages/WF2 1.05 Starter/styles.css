@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    width: 300px;
+    height: 275px;
+    margin: auto;
+    font-family: Bradley Hand, cursive;
+    border: solid black 2px;
+    position: relative;
+}
+
+ul{
+    text-align: left;
+}
+
+li {
+    position: relative;
+}
+
+li > button {
+    position: absolute;
+    right: 60px;
+    color: red;
+}
+
+#addInput, #addBtn {
+    display: inline-block;
+    font-family: Bradley Hand, cursive;
+}
+
+#addBtn {
+    color: red;
+}
+
+
+.bottom {
+    position: absolute;
+    left: 40px;
+    bottom: 25px;
+}
+
+span{
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.bold{
+    text-decoration: underline;
+    color: red;
+}
+
+.strike {
+    text-decoration: line-through;
+    color: gray;
+}
