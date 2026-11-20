@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block container %}
+    {% for user in users %}
+	<div>
+            <p><b>{{ user.username }}</b></p>
+        	        {% for shipper in shippers %}
+                    {% if user.id == shipper.user_id %}
+                	        <p>{{ shipper.full_name }}: {{ shipper.address }}</p>
+                    {% endif %}
+        	        {% endfor %}
+	</div>
+    {% endfor %}
+{% endblock %}

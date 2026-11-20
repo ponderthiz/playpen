@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+
+{% block container %}
+    <h2> Register an account here! </h2>
+
+    <h3>{{message}}</h3>
+
+    <ul>
+        {% for field, errors in form.errors.items() %}
+            <li>{{ " ".join(errors) }} ({{ field }})</li>
+        {% endfor %}
+    </ul>
+
+    <form action="/register" method="POST" novalidate>
+        {{ form.hidden_tag() }}</br>
+        {{ form.uname.label }}</br>
+        {{ form.uname }}</br>
+        {{ form.pword.label }}</br>
+        {{ form.pword }}</br>
+        {{ form.confirm.label }}</br>
+        {{ form.confirm }}</br>
+        {{ form.submit() }}</br>
+    </form>
+
+{% endblock %}
